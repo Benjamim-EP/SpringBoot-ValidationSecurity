@@ -3,7 +3,7 @@ Repositorio com um exemplo de implementação de Validação e segurança
 
 
 
-Essas classes estão relacionadas à configuração de segurança e autenticação usando OAuth2 em um aplicativo Java Spring. Vamos analisá-las uma por uma e entender como elas se relacionam:
+Classes relacionadas a configuração de segurança e autenticação usando OAuth2 em um aplicativo Java Spring.
 
 ## 1. `AppConfig`:
 Essa classe é responsável por configurar alguns beans utilizados na aplicação. Ela define três métodos `@Bean` que instanciam e configuram os seguintes objetos:
