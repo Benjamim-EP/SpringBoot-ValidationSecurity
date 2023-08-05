@@ -1,69 +1,69 @@
 Listagem de caminhos de pasta para o volume ARSENAL
-O número de série do volume é 2092-CD9E
+O nï¿½mero de sï¿½rie do volume ï¿½ 2092-CD9E
 F:.
-¦   tree.txt
-¦   
+ï¿½   tree.txt
+ï¿½   
 +---java
-¦   +---com
-¦       +---devsuperior
-¦           +---dscatalog
-¦               ¦   DscatalogApplication.java
-¦               ¦   
-¦               +---components
-¦               ¦       JwtTokenEnhancer.java
-¦               ¦       
-¦               +---config
-¦               ¦       AppConfig.java
-¦               ¦       AuthorizationServerConfig.java
-¦               ¦       ResourceServerConfig.java
-¦               ¦       WebSecurityConfig.java
-¦               ¦       
-¦               +---dto
-¦               ¦       CategoryDTO.java
-¦               ¦       ProductDTO.java
-¦               ¦       RoleDTO.java
-¦               ¦       UserDTO.java
-¦               ¦       UserInsertDTO.java
-¦               ¦       UserUpdateDTO.java
-¦               ¦       
-¦               +---entities
-¦               ¦       Category.java
-¦               ¦       Product.java
-¦               ¦       Role.java
-¦               ¦       User.java
-¦               ¦       
-¦               +---repositories
-¦               ¦       CategoryRepository.java
-¦               ¦       ProductRepository.java
-¦               ¦       RoleRepository.java
-¦               ¦       UserRepository.java
-¦               ¦       
-¦               +---resources
-¦               ¦   ¦   CategoryResource.java
-¦               ¦   ¦   ProductResource.java
-¦               ¦   ¦   UserResource.java
-¦               ¦   ¦   
-¦               ¦   +---exceptions
-¦               ¦           FieldMessage.java
-¦               ¦           ResourceExceptionHandler.java
-¦               ¦           StandardError.java
-¦               ¦           ValidationError.java
-¦               ¦           
-¦               +---services
-¦                   ¦   CategoryService.java
-¦                   ¦   ProductService.java
-¦                   ¦   UserService.java
-¦                   ¦   
-¦                   +---exceptions
-¦                   ¦       DatabaseException.java
-¦                   ¦       ResourceNotFoundException.java
-¦                   ¦       
-¦                   +---validation
-¦                           UserInsertValid.java
-¦                           UserInsertValidator.java
-¦                           UserUpdateValid.java
-¦                           UserUpdateValidator.java
-¦                           
+ï¿½   +---com
+ï¿½       +---bookCatalog
+ï¿½           +-bookcatalogog
+ï¿½               ï¿½   DscatalogApplication.java
+ï¿½               ï¿½   
+ï¿½               +---components
+ï¿½               ï¿½       JwtTokenEnhancer.java
+ï¿½               ï¿½       
+ï¿½               +---config
+ï¿½               ï¿½       AppConfig.java
+ï¿½               ï¿½       AuthorizationServerConfig.java
+ï¿½               ï¿½       ResourceServerConfig.java
+ï¿½               ï¿½       WebSecurityConfig.java
+ï¿½               ï¿½       
+ï¿½               +---dto
+ï¿½               ï¿½       CategoryDTO.java
+ï¿½               ï¿½       ProductDTO.java
+ï¿½               ï¿½       RoleDTO.java
+ï¿½               ï¿½       UserDTO.java
+ï¿½               ï¿½       UserInsertDTO.java
+ï¿½               ï¿½       UserUpdateDTO.java
+ï¿½               ï¿½       
+ï¿½               +---entities
+ï¿½               ï¿½       Category.java
+ï¿½               ï¿½       Product.java
+ï¿½               ï¿½       Role.java
+ï¿½               ï¿½       User.java
+ï¿½               ï¿½       
+ï¿½               +---repositories
+ï¿½               ï¿½       CategoryRepository.java
+ï¿½               ï¿½       ProductRepository.java
+ï¿½               ï¿½       RoleRepository.java
+ï¿½               ï¿½       UserRepository.java
+ï¿½               ï¿½       
+ï¿½               +---resources
+ï¿½               ï¿½   ï¿½   CategoryResource.java
+ï¿½               ï¿½   ï¿½   ProductResource.java
+ï¿½               ï¿½   ï¿½   UserResource.java
+ï¿½               ï¿½   ï¿½   
+ï¿½               ï¿½   +---exceptions
+ï¿½               ï¿½           FieldMessage.java
+ï¿½               ï¿½           ResourceExceptionHandler.java
+ï¿½               ï¿½           StandardError.java
+ï¿½               ï¿½           ValidationError.java
+ï¿½               ï¿½           
+ï¿½               +---services
+ï¿½                   ï¿½   CategoryService.java
+ï¿½                   ï¿½   ProductService.java
+ï¿½                   ï¿½   UserService.java
+ï¿½                   ï¿½   
+ï¿½                   +---exceptions
+ï¿½                   ï¿½       DatabaseException.java
+ï¿½                   ï¿½       ResourceNotFoundException.java
+ï¿½                   ï¿½       
+ï¿½                   +---validation
+ï¿½                           UserInsertValid.java
+ï¿½                           UserInsertValidator.java
+ï¿½                           UserUpdateValid.java
+ï¿½                           UserUpdateValidator.java
+ï¿½                           
 +---resources
         application-test.properties
         application.properties

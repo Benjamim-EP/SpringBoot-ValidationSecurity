@@ -9,10 +9,10 @@
 		<version>2.4.4</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.devsuperior</groupId>
-	<artifactId>dscatalog</artifactId>
+	<groupId>com.bookCatalog</groupId>
+	<artifactId>bookcatalog</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dscatalog</name>
+	<name>bookcatalog</name>
 	<description>DSCatalog Bootcamp DevSuperior</description>
 
 	<properties>
